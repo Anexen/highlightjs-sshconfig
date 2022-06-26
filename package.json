@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-sshconfig",
+  "version": "0.0.1",
+  "description": "highlight.js syntax definition for SSH config",
+  "main": "src/sshconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anexen/highlightjs-sshconfig.git"
+  },
+  "keywords": [
+    "sshconfig",
+    "ssh",
+    "syntax",
+    "highlight.js",
+    "highlightjs"
+  ],
+  "author": "Anexen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anexen/highlightjs-sshconfig/issues"
+  },
+  "homepage": "https://github.com/Anexen/highlightjs-sshconfig#readme"
+}
