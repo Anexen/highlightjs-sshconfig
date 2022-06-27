@@ -32,6 +32,10 @@ module.exports = function (hljs) {
           built_in: OPTIONS,
         },
       },
+      {
+        className: "symbol",
+        begin: /%[%CdhikLlnpru]/,
+      },
     ],
   };
 };
